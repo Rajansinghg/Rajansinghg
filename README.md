@@ -90,12 +90,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajansinghg&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajansinghg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajansinghg&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajansinghg&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 ---
@@ -113,8 +114,9 @@
 
 ---
 
+<h3 align="left">GitHub Contribution Snake Animation:</h3>
 <p align="center">
-  <img src="https://github.com/Rajansinghg/Rajansinghg/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rajansinghg/Rajansinghg/output/github-contribution-grid-snake.svg" />
 </p>
 
 ✨ *Always building, optimizing, and learning.*
