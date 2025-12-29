@@ -90,14 +90,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajansinghg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajansinghg&theme=github_dark"
+    alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Rajansinghg&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajansinghg&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
 
 
 ---
